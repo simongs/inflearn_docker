@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React2 TESSDFSDFSD
+          Learn React2 TESSDFSDFSD 임의의 변경 진행
         </a>
       </header>
     </div>
